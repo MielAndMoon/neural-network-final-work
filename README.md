@@ -2,7 +2,9 @@
 
 En este repositorio se encuentra el código del trabajo final del curso de Redes Neuronales SENATI.
 
-El primero entregable del curso es crear un modelo predictivo con perceptrón multi-capa.
+## Entregable 01
+
+El primer entregable es crear un modelo de prediccion con perceptrón multi-capa.
 
 ## Requisitos
 
