@@ -7,10 +7,6 @@ En este repositorio se encuentra el código del trabajo final del curso de Redes
 - '/entregable-01': código del primer entregable
 - '/entregable-02': código del segundo entregable
 
-## Entregable 01
-
-El primer entregable es crear un modelo de prediccion con perceptrón multi-capa.
-
 ## Requisitos
 
 - Python 3.12
